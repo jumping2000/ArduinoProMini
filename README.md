@@ -11,6 +11,9 @@ LiOn battery or 5V USB
 3. RFM69 support
 4. designed for multiple sensors
 
+
+**Please note: the sensor images refer to previous version of the board**
+
 **Disclaimer**
 
 If you order or use this you agree to and understand that the author is not liable for any injury or damage howsoever caused and that you use this PCB at your own risk. This is DIY and the author has not made any professional test. This product has not been marked with any certification marks and can't be guaranteed to comply with any standards.
