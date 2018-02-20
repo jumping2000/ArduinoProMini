@@ -1,0 +1,23 @@
+Partlist exported from C:/Users/s503594/Documents/eagle/Mysensors/JMP_PROMINI-v2.sch at 20/02/18 19:52
+
+Qty Value                    Device                   Package                         Parts                                     Description                                      PARTNO PROD_ID   
+5                            1,6/0,8                  1,6/0,8                         ANT, BAT+, BAT-, IN+, IN-                 THROUGH-HOLE PAD                                                  
+2                            JP1E                     JP1                             3,3V, 5V                                  JUMPER                                                            
+1                            M07                      1X07                            DIGITAL                                   Header 7                                                          
+1                            M08                      1X08_ROUND                      ANALOG                                    Header 8                                                CONN-08437
+2                            PAD-JUMPER-2P            2P-SMD-1.78X1.27                J1, J2                                                                                     DNP              
+2                            PINHD-1X1                1X01                            JP2, JP4                                  PIN HEADER                                                        
+1                            PINHD-2X2                2X02                            JP3                                       PIN HEADER                                                        
+2                            PINHD-2X4                2X04                            I2C, SUPPLY                               PIN HEADER                                                        
+9                            R-0805                   R0805                           R2B, R3, R3B, R4B, R5B, R6, R6B, R7B, R8B                                                                   
+4   0,1uF                    C-EUC0805                C0805                           C-NRF, C-NRF1, C1, C2                     CAPACITOR, European symbol                                        
+2   1M                       R-0805                   R0805                           R2, R5                                                                                                      
+2   1uF                      C-EUC0805                C0805                           CIN, COUT                                 CAPACITOR, European symbol                                        
+2   470K                     R-0805                   R0805                           R1, R4                                                                                                      
+1   47uF                     CPOL-EUE2.5-5            E2,5-5                          CNRF-1                                    POLARIZED CAPACITOR, European symbol                              
+1   ARDUINO-PRO-MINI-3.3V#NP ARDUINO-PRO-MINI-3.3V#NP ARDUINO-PRO-MINI#NP             M2                                        Arduino Pro Mini without programming pads                         
+2   JST-XH-02-PIN-ROUND-PAD  JST-XH-02-PIN-ROUND-PAD  JST-XH-02-PACKAGE-ROUND-PAD     X1, X3                                    JST XH Connector 2 Pin                                            
+1   MCP170333MB              MCP170333MB              SOT89                           IC1                                       250 mA, 16V, Low Quiescent Current LDO Regulator                  
+1   RFM69SMD                 RFM69SMD                 20X16SMD                        RFM69HW                                   RFM69 module                                                      
+1   TP4056-MODULE            TP4056-MODULE            TP4056-LITHIUM-PROTECTED-MODULE U$1                                                                                                         
+1   WIRELESS-NRF24L01        WIRELESS-NRF24L01        WIRELESS-NRF24L01               NRF24L01+                                 2.4 GHz Wireless Module based on NRF24L01 chip                    
