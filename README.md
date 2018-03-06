@@ -9,7 +9,9 @@ LiOn battery or 5V USB
 1. LiOn battery support
 2. NRF24L01+ support
 3. RFM69 support
-4. designed for multiple sensors
+4. ATSHA204A signing chip
+5. AT25DF512C EEPROM chip
+6. designed for multiple sensors
 
 
 **Please note: the sensor images refer to previous version of the board**
