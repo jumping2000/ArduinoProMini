@@ -31,6 +31,7 @@ Arduino Pro Mini board for MySensors,the board is designed for multiple sensors.
 2. Weld the C-NRF capacitor 
 3. short-circuit the 3.3v and 5V jumper
 4. weld the C1, R1, R2 parts (voltage divider circuit)
+5. attach the 2xAA battery on X3 input
 ------------------------------------------------
 
 
