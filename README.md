@@ -14,7 +14,7 @@ Arduino Pro Mini board for MySensors,the board is designed for multiple sensors.
 4. ATSHA204A signing chip
 5. AT25DF512C EEPROM chip
 6. designed for multiple sensors (multiple I2C sensors, analog and digital sensors)
-7. Accept Arudino Pro Mini 3.3V and 5V
+7. Accept Arduino Pro Mini 3.3V and 5V
 
 ------------------------------------------------
 **LiOn Battery --> 3.3V** - Arduino Pro Mini 8Mhz and 3.3V
@@ -26,7 +26,7 @@ Arduino Pro Mini board for MySensors,the board is designed for multiple sensors.
 **5V** - Arduino Pro Mini 16Mhz and 5V
 1. Weld the  regulator (IC1) and the other capacitor (Cin,Cout, C-NRF, etc)
 2. short-circuit the 5v jumper
-3. the regulator gives 3.3v to antenna 
+3. the regulator gives 3.3v only to antenna 
 
 **AA Battery --> 3V** - Arduino Pro Mini 8Mhz and 3.3V
 1. **DON'T weld** the  regulator (IC1) 
