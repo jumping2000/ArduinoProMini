@@ -25,7 +25,7 @@ Arduino Pro Mini board for MySensors,the board is designed for multiple sensors.
 
 **5V** - Arduino Pro Mini 16Mhz and 5V
 1. Weld the  regulator (IC1) and the other capacitor (Cin,Cout, C-NRF, etc)
-2. short-circuit the 5v jumper
+2. short-circuit the 5v jumper and J2 pad
 3. the regulator gives 3.3v only to antenna 
 
 **AA Battery --> 3V** - Arduino Pro Mini 8Mhz and 3.3V
