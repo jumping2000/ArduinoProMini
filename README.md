@@ -15,11 +15,23 @@ Arduino Pro Mini board for MySensors,the board is designed for multiple sensors.
 5. AT25DF512C EEPROM chip
 6. designed for multiple sensors (multiple I2C sensors, analog and digital sensors)
 
+------------------------------------------------
 **LiOn Battery**
-1. Weld the  regulator (IC1) and the other capacitor (Cin,Cout, C-NRF, etc); 
+1. Weld the  regulator (IC1) and the other capacitor (Cin,Cout, C-NRF, etc)
 2. short-circuit the 3.3v jumper
 3. weld the C1, R1, R2 parts (voltage divider circuit)
 4. use a TP4056 module and attach the LiOn battery on X1 input
+
+**5V**
+1. Weld the  regulator (IC1) and the other capacitor (Cin,Cout, C-NRF, etc)
+2. short-circuit the 5v jumper
+
+**AA Battery**
+1. DON'T weld the  regulator (IC1) 
+2. Weld the C-NRF capacitor 
+3. short-circuit the 3.3v and 5V jumper
+4. weld the C1, R1, R2 parts (voltage divider circuit)
+------------------------------------------------
 
 
 **Please note: the sensor images refer to previous version of the board**
